@@ -50,6 +50,7 @@ To obtain a basic tour, we use the `tsp.get_tour` function:
 >>> import tsp
 >>> tsp.get_tour(number_of_stops=5)
 [0, 1, 2, 3, 4, 0]
+
 ```
 
 If we pass a random seed this will also shuffle the interior stops (in a
@@ -58,6 +59,7 @@ reproducible manner):
 ```python
 >>> tsp.get_tour(number_of_stops=5, seed=0)
 [0, 3, 4, 2, 1, 0]
+
 ```
 
 ### How to swap two stops
