@@ -1,0 +1,11 @@
+.DS_Store
+.coverage
+.hypothesis/
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+docs/
+get_image_for_docs.ipynb
+how-to.pdf
+how-to.png
+main.ipynb
