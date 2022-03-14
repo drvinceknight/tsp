@@ -179,6 +179,12 @@ it is accepted as the new solution.
 
 This has the effect of essentially untangling a given tour.
 
+## Alternative algorithms
+
+There are various other algorithms for solving the TSP. They includ:
+
+- Trying all possible permutations.
+
 ## Reference
 
 ### List of functionality
