@@ -102,7 +102,7 @@ tsp.plot_tour(x=xs, y=ys, tour=tour)
 
 This gives the following image:
 
-![](./how-to.svg)
+![](./img/how-to.svg)
 
 
 ### How to use the 2-opt algorithm
