@@ -49,7 +49,7 @@ To obtain a basic tour, we use the `tsp.get_tour` function:
 ```python
 >>> import tsp
 >>> tsp.get_tour(number_of_stops=5)
-[0, 1, 2, 3, 4, 5, 0]
+[0, 1, 2, 3, 4, 0]
 
 ```
 
